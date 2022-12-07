@@ -2,9 +2,9 @@
 
 ## Effective: December 16, 2022
 
-This Privacy Policy is intended to inform you about the information we collect, how we use it, whom we share it with, your privacy rights, and the controls we give you to access, update, and delete your information. This Privacy Policy applies whether the information is collected online through the website, mobile applications, or any of the social media pages offered, owned, or operated by LOOOL, or its affiliates, as well as your interactions with LOOOL’s agents, contractors or employees.
+This Privacy Policy is intended to inform you about the information we collect, how we use it, whom we share it with, your privacy rights, and the controls we give you to access, update, and delete your information. This Privacy Policy applies whether the information is collected online through the website, mobile applications, or any of the social media pages offered, owned, or operated by LO_OL, or its affiliates, as well as your interactions with LO_OL’s agents, contractors or employees.
 
-Please read this Privacy Policy carefully, because by using LOOOL, you are acknowledging that you understand and agree to the terms of this Privacy Policy, and consent to the manner in which we collect, use and disclose your information. In addition, please review our Terms of Service which govern the use of LOOOL and any content that you sent or received using LOOOL. This Privacy Policy includes the following sections:
+Please read this Privacy Policy carefully, because by using LO_OL, you are acknowledging that you understand and agree to the terms of this Privacy Policy, and consent to the manner in which we collect, use and disclose your information. In addition, please review our Terms of Service which govern the use of LO_OL and any content that you sent or received using LO_OL. This Privacy Policy includes the following sections:
 
 * Information That We Collect
 * How We Use the Information We Collect
@@ -19,22 +19,22 @@ Please read this Privacy Policy carefully, because by using LOOOL, you are ackno
 * Right To Modify This Privacy Policy
 * How To Contact Us
 
-We have provided you with the links above to help you navigate to specific sections of this Privacy Policy, but we recommend you read this policy its entirety before using the LOOOL mobile applications, website, social media pages or interacting with our agents, contractors or employees.
+We have provided you with the links above to help you navigate to specific sections of this Privacy Policy, but we recommend you read this policy its entirety before using the LO_OL mobile applications, website, social media pages or interacting with our agents, contractors or employees.
 
 1. THE INFORMATION THAT WE COLLECT
 
 We automatically collect information when you use our services.
 
 * Usage Information:We collect information about your activities on our application using web beacons, cookies, or other analytics tools.
-  * These technologies collect certain traffic information that your browser sends, such as your browser type and language, browser history, and access times. They may also collect information about your IP address, unique device identifier, geolocation information, clickstream behavior (e.g., the pages you view, the links you click, and other actions you take in connection with LOOOL).
+  * These technologies collect certain traffic information that your browser sends, such as your browser type and language, browser history, and access times. They may also collect information about your IP address, unique device identifier, geolocation information, clickstream behavior (e.g., the pages you view, the links you click, and other actions you take in connection with LO_OL).
 * Device Information:We collect information from and about the devices you use.
   * For example: hardware, software, device brand/model, IP address, app version, internet type, and other device information.
 * Location Information:We may collect information about your location.
 * Information Collected by Cookies or Other Technologies:We may use cookies and other technologies, such as: web beacons, web storage, and unique advertising identifiers, to collect information about your activity, browser, and device. Most web browsers are set to accept cookies, but you can usually remove or reject cookies through the settings on your browser or device.
 * Log Information:We collect log information when you use our website, such as device information, including your browser type and language, access times, pages viewed, IP address, and identifiers associated with cookies.
 We collect information from third-parties.
-LOOOL uses third-party services that may collect information used to identify you. Third-parties may share information with us as well. We may use this information, among other ways, to help target or measure the performance of ads.
-Below are links to privacy policies of the third-party service providers used by the LOOOL app:
+LO_OL uses third-party services that may collect information used to identify you. Third-parties may share information with us as well. We may use this information, among other ways, to help target or measure the performance of ads.
+Below are links to privacy policies of the third-party service providers used by the LO_OL app:
 * Google Analytics for Firebase
 * Firebase Crashlytics
 * Appsflyer
@@ -45,19 +45,19 @@ You recognize and agree that the analytic companies utilized by us may combine t
 
 2. HOW WE USE THE INFORMATION WE COLLECT
 
-LOOOL may store, analyze, combine, and otherwise use the information we collect, either directly or indirectly, to:
+LO_OL may store, analyze, combine, and otherwise use the information we collect, either directly or indirectly, to:
 
-* Provide you with the services and products offered by LOOOL when you sign-up for an account;
-* Improve, develop, operate, deliver, and maintain LOOOL and the way we do business;
+* Provide you with the services and products offered by LO_OL when you sign-up for an account;
+* Improve, develop, operate, deliver, and maintain LO_OL and the way we do business;
 * Respond to your questions and requests;
 * Send you communications, including emails;
-* Manage your LOOOL Account and provide you with customer support;
-* Perform research, monitoring, and analysis about usage and potential interest in our LOOOL and associated content or services;
+* Manage your LO_OL Account and provide you with customer support;
+* Perform research, monitoring, and analysis about usage and potential interest in our LO_OL and associated content or services;
 * Develop and display content and advertising tailored to your interests, as appropriate;
 * Use information we have collected from cookies and other technology to enhance our services and experience with you;
 * Help us improve the overall accuracy and completeness of the information;
 * Enforce compliance with this Privacy Policy, the Terms of Service, applicable law, and respond to law enforcement;
-* Support the technical functionality of LOOOL, develop new products and services, and analyze your use of LOOOL; and
+* Support the technical functionality of LO_OL, develop new products and services, and analyze your use of LO_OL; and
 * As otherwise stated in this Privacy Statement.
 
 3. HOW WE SHARE THE INFORMATION THAT WE COLLECT
@@ -70,7 +70,7 @@ We may share your information with our affiliates, who may be located outside of
 
 Service Providers
 
-LOOOL retains service providers and suppliers to manage or support its business operations, deliver services and customer solutions and to assist with marketing and communication initiatives. These providers include, for example, hosting and IT service providers, website management and support service providers, email service providers, automated data processors, and providers of marketing, and communications. We may share your information with these companies to enable them to provide you with services on our behalf, and for the purpose of conducting general business analysis. For example, we may share website usage and marketing information with our marketing partners.
+LO_OL retains service providers and suppliers to manage or support its business operations, deliver services and customer solutions and to assist with marketing and communication initiatives. These providers include, for example, hosting and IT service providers, website management and support service providers, email service providers, automated data processors, and providers of marketing, and communications. We may share your information with these companies to enable them to provide you with services on our behalf, and for the purpose of conducting general business analysis. For example, we may share website usage and marketing information with our marketing partners.
 
 Our service providers will only use your information to perform the service for which they are engaged, while also complying with all applicable laws, and pursuant to our instructions. You expressly consent to your information being used as set forth in this Section.
 
@@ -90,7 +90,7 @@ We may also share aggregated, non-personally identifiable, or de-identified info
 
 4. CHILDREN’S PRIVACY
 
-LOOOL is not intended for and does not target the application to children under the age of 13. LOOOL will not knowingly collect personal information on anyone under the age of 13. Children under 13 are not allowed to use LOOOL. If you are based in the EU or EEA you may only use LOOOL if you are over the age at which you can provide consent to data processing under the laws of your country.
+LO_OL is not intended for and does not target the application to children under the age of 13. LO_OL will not knowingly collect personal information on anyone under the age of 13. Children under 13 are not allowed to use LO_OL. If you are based in the EU or EEA you may only use LO_OL if you are over the age at which you can provide consent to data processing under the laws of your country.
 
 5. YOUR RIGHTS, CHOICE AND ACCESS
 
@@ -100,24 +100,24 @@ You have the right to request us to:
 * Correct or update your personal information; and
 * Not contact you in the future.
 
-If you are a minor and have registered for a LOOOL account, you have the right to request that we remove any content or information, so that it is not visible to the public.
+If you are a minor and have registered for a LO_OL account, you have the right to request that we remove any content or information, so that it is not visible to the public.
 
-If you no longer wish to receive marketing communications from LOOOL, or if you wish to make any of the above requests, please contact us at:playloool.game@gmail.com.
+If you no longer wish to receive marketing communications from LO_OL, or if you wish to make any of the above requests, please contact us at:playloool.game@gmail.com.
 
 You have choice and access rights through the following tools:
 
 * Access, Correction, and Portability. If you would like a copy of your account information that is not available in the application in portable format, you may request the information by contacting us at:playloool.game@gmail.com.
 * Revoking Permissions. If you previously granted permission to use your information, you can revoke your permission by changing the settings in the application or on your device if your device offers those options. When permissions are revoked, there may be certain application functionality that may no longer work.
 * Deletion.If you decide to delete your account, you may request the information by contacting us at:playloool.game@gmail.com.
-* Tracking.Once iOS users install and open LOOOL, a “Do Not Track” pop-up displays and provides the option to opt-in to the use of cookies and other tracking tools. If users opt-in, LOOOL will track their activity and have the IDFA (a unique identifier used to track the device). If you opt-out of tracking, LOOOL will not link identifiable information from third-party apps or websites with identifiable information from LOOOL for advertising purposes, except on your device. If you decide to opt-out at any time after installation, you may do so on your device navigating to the application settings and turning off the “Allow Tracking” option.
+* Tracking.Once iOS users install and open LO_OL, a “Do Not Track” pop-up displays and provides the option to opt-in to the use of cookies and other tracking tools. If users opt-in, LO_OL will track their activity and have the IDFA (a unique identifier used to track the device). If you opt-out of tracking, LO_OL will not link identifiable information from third-party apps or websites with identifiable information from LO_OL for advertising purposes, except on your device. If you decide to opt-out at any time after installation, you may do so on your device navigating to the application settings and turning off the “Allow Tracking” option.
 
 6. HOW LONG WE KEEP YOUR INFORMATION
 
-We keep information as long as we need it to provide LOOOL services, comply with legal obligations or protect our or other’s interests.
+We keep information as long as we need it to provide LO_OL services, comply with legal obligations or protect our or other’s interests.
 
 7. STATE AND REGIONS SPECIFIC INFORMATION
 
-Some regions have specific privacy rights for their residents. For example, LOOOL users in the United States (residents of California and other states) and Europe have specific privacy rights. LOOOL maintains an up-to-date overview of state and region specific disclosures here.
+Some regions have specific privacy rights for their residents. For example, LO_OL users in the United States (residents of California and other states) and Europe have specific privacy rights. LO_OL maintains an up-to-date overview of state and region specific disclosures here.
 
 * California
 * Nevada
@@ -125,19 +125,19 @@ Some regions have specific privacy rights for their residents. For example, LOOO
 
 8. INTERNATIONAL DATA TRANSFERS
 
-We may collect and you may provide us with information wherever you are located. The LOOOL servers that processes the data we collect from you are primarily located in the United States, but may be located in other jurisdictions. By using LOOOL, or providing us with information, you understand that the collection, processing, maintenance, transfer and storage of such information will occur in the United States and other jurisdictions where the privacy laws may be different from those in the country where you reside or are located in, and waive any claims relating to the collection, processing, maintenance, transfer or storage of data outside of such country. Whenever we share information outside of where you live, when we are legally required to do so, we make sure an adequate transfer mechanism is in place. We also make sure any third parties we share information with have an adequate transfer mechanism in place.
+We may collect and you may provide us with information wherever you are located. The LO_OL servers that processes the data we collect from you are primarily located in the United States, but may be located in other jurisdictions. By using LO_OL, or providing us with information, you understand that the collection, processing, maintenance, transfer and storage of such information will occur in the United States and other jurisdictions where the privacy laws may be different from those in the country where you reside or are located in, and waive any claims relating to the collection, processing, maintenance, transfer or storage of data outside of such country. Whenever we share information outside of where you live, when we are legally required to do so, we make sure an adequate transfer mechanism is in place. We also make sure any third parties we share information with have an adequate transfer mechanism in place.
 
 9. THIRD-PARTY LINKS AND INTEGRATIONS
 
-Our services may contain third-party content and integrations. Examples include third-party integrations in Google Analytics for Firebase, Firebase Crashlytics, and Appsflyer. Through these integrations, you may be providing information to the third-party as well as to LOOOL. We are not responsible for how those third-parties collect or use your information. We encourage you to review the privacy policies of every third-party service that you visit or use, including those third-parties you interact with through our services.
+Our services may contain third-party content and integrations. Examples include third-party integrations in Google Analytics for Firebase, Firebase Crashlytics, and Appsflyer. Through these integrations, you may be providing information to the third-party as well as to LO_OL. We are not responsible for how those third-parties collect or use your information. We encourage you to review the privacy policies of every third-party service that you visit or use, including those third-parties you interact with through our services.
 
 10. SECURITY
 
-When you submit information to LOOOL, you should be aware that your information is transmitted across multiple computer systems on the Internet. Although we take reasonable and appropriate steps to protect your information, no method of transmitting and storing electronic data is ever completely secure, and we do not guarantee the security of such information at any time.
+When you submit information to LO_OL, you should be aware that your information is transmitted across multiple computer systems on the Internet. Although we take reasonable and appropriate steps to protect your information, no method of transmitting and storing electronic data is ever completely secure, and we do not guarantee the security of such information at any time.
 
 11. RIGHT TO MODIFY THIS PRIVACY POLICY
 
-LOOOL reserves the right to modify our Privacy Policy at any time at its sole discretion. If we modify the Privacy Policy, we will post the revised policy here, with an updated version date. Changes will be made effective immediately upon the posting of the revised Privacy Policy. Please note that if you do not agree with the modified Privacy Policy, you must discontinue using LOOOL. Your continued use of LOOOL following the posting of the updated Privacy Policy will mean that you accept those changes. You are advised to review this Privacy Policy periodically for changes.
+LO_OL reserves the right to modify our Privacy Policy at any time at its sole discretion. If we modify the Privacy Policy, we will post the revised policy here, with an updated version date. Changes will be made effective immediately upon the posting of the revised Privacy Policy. Please note that if you do not agree with the modified Privacy Policy, you must discontinue using LO_OL. Your continued use of LO_OL following the posting of the updated Privacy Policy will mean that you accept those changes. You are advised to review this Privacy Policy periodically for changes.
 
 12. HOW TO CONTACT US
 
@@ -164,7 +164,7 @@ If you are a California resident and would like to designate an authorized agent
 
 If you are an agent of a California resident and would like to submit a request on behalf of a California resident, please submit the request to the following email address: playloool.game@gmail.com. After you submit the request, we will require additional information to verify the identity of the California resident, as well as your authority to act on behalf of the California resident.
 
-Additionally, California Civil Code Section 1798.83 gives California residents the right to request, from a business with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party, and the identities of the third parties with whom the business has shared such information during the immediately preceding year. To request a copy of the information disclosure provided by LOOOL pursuant to California Civil Code Section 1798.83, please contact us at the address listed below.
+Additionally, California Civil Code Section 1798.83 gives California residents the right to request, from a business with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party, and the identities of the third parties with whom the business has shared such information during the immediately preceding year. To request a copy of the information disclosure provided by LO_OL pursuant to California Civil Code Section 1798.83, please contact us at the address listed below.
 
 Nevada
 
@@ -176,7 +176,7 @@ We do not sell your covered information, as defined under Chapter 603A of the Ne
 
 Europe
 
-If you are located in the European Union (“EU”), European Economic Area (“EEA”) or United Kingdom (“UK”), you have certain rights and protections under The General Data Protection Regulation (“GDPR”) regarding the processing of your personal data. GDPR is an EU law intended to strengthen and unify the data protection and data privacy regulations and rights for the benefit and protection of EU, EEA, and UK data subjects. In addition to the notice provided above, the following notice applies to EU, EEA, and UK data subjects. In the event there is a conflict between the two as it applies to EU data subjects, this section shall take precedence. For purposes of this section, the term “Personal Data” shall have the meaning given by Regulation (EU) 2016/679. LOOOL will be the Data Controller responsible for determining the purposes and means of processing your personal information.
+If you are located in the European Union (“EU”), European Economic Area (“EEA”) or United Kingdom (“UK”), you have certain rights and protections under The General Data Protection Regulation (“GDPR”) regarding the processing of your personal data. GDPR is an EU law intended to strengthen and unify the data protection and data privacy regulations and rights for the benefit and protection of EU, EEA, and UK data subjects. In addition to the notice provided above, the following notice applies to EU, EEA, and UK data subjects. In the event there is a conflict between the two as it applies to EU data subjects, this section shall take precedence. For purposes of this section, the term “Personal Data” shall have the meaning given by Regulation (EU) 2016/679. LO_OL will be the Data Controller responsible for determining the purposes and means of processing your personal information.
 
 If you live in the EU, EEA or UK, you have the right under GDPR to:
 
@@ -198,9 +198,9 @@ In addition, if you are in the EEA and you have any complaints about how we use 
 
 Bases for Using Your Information
 
-Your country only allows us to use your personal information when certain conditions apply. These conditions are called “legal bases” and, at LOOOL, we typically rely on one of four:
+Your country only allows us to use your personal information when certain conditions apply. These conditions are called “legal bases” and, at LO_OL, we typically rely on one of four:
 
-Contract. We might use your information is because you have entered into an agreement with us to use the LOOOL app.
+Contract. We might use your information is because you have entered into an agreement with us to use the LO_OL app.
 
 Legitimate interest. We might use your information because we have—or a third party has—a legitimate interest in doing so. For example, we need to use your information to provide and improve our services, including protecting your account, providing customer support, and helping you find friends and content we think you will like. Please note that our legitimate interests do not outweigh your right to privacy, so we only rely on legitimate interest when we think the way we are using your data does not significantly impact your privacy or would be expected by you, or there is a compelling reason to do so.
 
