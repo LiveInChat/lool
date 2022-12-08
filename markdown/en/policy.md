@@ -21,7 +21,7 @@ Please read this Privacy Policy carefully, because by using LO_OL, you are ackno
 
 We have provided you with the links above to help you navigate to specific sections of this Privacy Policy, but we recommend you read this policy its entirety before using the LO_OL mobile applications, website, social media pages or interacting with our agents, contractors or employees.
 
-1. THE INFORMATION THAT WE COLLECT
+### 1. THE INFORMATION THAT WE COLLECT
 
 We automatically collect information when you use our services.
 
@@ -43,7 +43,7 @@ In addition, we may use third-party services such as AWS for data storage, colle
 
 You recognize and agree that the analytic companies utilized by us may combine the information collected with other information they have independently collected from other services or products relating to your activities. But rest assured that the purpose of third-party sharing is solely for the purpose of ads & performance tracking, and we will not share user information with any third party.
 
-2. HOW WE USE THE INFORMATION WE COLLECT
+### 2. HOW WE USE THE INFORMATION WE COLLECT
 
 LO_OL may store, analyze, combine, and otherwise use the information we collect, either directly or indirectly, to:
 
@@ -60,7 +60,7 @@ LO_OL may store, analyze, combine, and otherwise use the information we collect,
 * Support the technical functionality of LO_OL, develop new products and services, and analyze your use of LO_OL; and
 * As otherwise stated in this Privacy Statement.
 
-3. HOW WE SHARE THE INFORMATION THAT WE COLLECT
+### 3. HOW WE SHARE THE INFORMATION THAT WE COLLECT
 
 We may share information about you in the following ways:
 
@@ -88,11 +88,11 @@ Non-personal information
 
 We may also share aggregated, non-personally identifiable, or de-identified information with third parties that provide or perform business related services to us. Note that we may share any information that does not identify you, without restriction, unless otherwise prohibited by applicable law.
 
-4. CHILDREN’S PRIVACY
+### 4. CHILDREN’S PRIVACY
 
 LO_OL is not intended for and does not target the application to children under the age of 13. LO_OL will not knowingly collect personal information on anyone under the age of 13. Children under 13 are not allowed to use LO_OL. If you are based in the EU or EEA you may only use LO_OL if you are over the age at which you can provide consent to data processing under the laws of your country.
 
-5. YOUR RIGHTS, CHOICE AND ACCESS
+### 5. YOUR RIGHTS, CHOICE AND ACCESS
 
 You have the right to request us to:
 
@@ -111,11 +111,11 @@ You have choice and access rights through the following tools:
 * Deletion.If you decide to delete your account, you may request the information by contacting us at:playloool.game@gmail.com.
 * Tracking.Once iOS users install and open LO_OL, a “Do Not Track” pop-up displays and provides the option to opt-in to the use of cookies and other tracking tools. If users opt-in, LO_OL will track their activity and have the IDFA (a unique identifier used to track the device). If you opt-out of tracking, LO_OL will not link identifiable information from third-party apps or websites with identifiable information from LO_OL for advertising purposes, except on your device. If you decide to opt-out at any time after installation, you may do so on your device navigating to the application settings and turning off the “Allow Tracking” option.
 
-6. HOW LONG WE KEEP YOUR INFORMATION
+### 6. HOW LONG WE KEEP YOUR INFORMATION
 
 We keep information as long as we need it to provide LO_OL services, comply with legal obligations or protect our or other’s interests.
 
-7. STATE AND REGIONS SPECIFIC INFORMATION
+### 7. STATE AND REGIONS SPECIFIC INFORMATION
 
 Some regions have specific privacy rights for their residents. For example, LO_OL users in the United States (residents of California and other states) and Europe have specific privacy rights. LO_OL maintains an up-to-date overview of state and region specific disclosures here.
 
@@ -123,23 +123,23 @@ Some regions have specific privacy rights for their residents. For example, LO_O
 * Nevada
 * Europe
 
-8. INTERNATIONAL DATA TRANSFERS
+### 8. INTERNATIONAL DATA TRANSFERS
 
 We may collect and you may provide us with information wherever you are located. The LO_OL servers that processes the data we collect from you are primarily located in the United States, but may be located in other jurisdictions. By using LO_OL, or providing us with information, you understand that the collection, processing, maintenance, transfer and storage of such information will occur in the United States and other jurisdictions where the privacy laws may be different from those in the country where you reside or are located in, and waive any claims relating to the collection, processing, maintenance, transfer or storage of data outside of such country. Whenever we share information outside of where you live, when we are legally required to do so, we make sure an adequate transfer mechanism is in place. We also make sure any third parties we share information with have an adequate transfer mechanism in place.
 
-9. THIRD-PARTY LINKS AND INTEGRATIONS
+### 9. THIRD-PARTY LINKS AND INTEGRATIONS
 
 Our services may contain third-party content and integrations. Examples include third-party integrations in Google Analytics for Firebase, Firebase Crashlytics, and Appsflyer. Through these integrations, you may be providing information to the third-party as well as to LO_OL. We are not responsible for how those third-parties collect or use your information. We encourage you to review the privacy policies of every third-party service that you visit or use, including those third-parties you interact with through our services.
 
-10. SECURITY
+### 10. SECURITY
 
 When you submit information to LO_OL, you should be aware that your information is transmitted across multiple computer systems on the Internet. Although we take reasonable and appropriate steps to protect your information, no method of transmitting and storing electronic data is ever completely secure, and we do not guarantee the security of such information at any time.
 
-11. RIGHT TO MODIFY THIS PRIVACY POLICY
+### 11. RIGHT TO MODIFY THIS PRIVACY POLICY
 
 LO_OL reserves the right to modify our Privacy Policy at any time at its sole discretion. If we modify the Privacy Policy, we will post the revised policy here, with an updated version date. Changes will be made effective immediately upon the posting of the revised Privacy Policy. Please note that if you do not agree with the modified Privacy Policy, you must discontinue using LO_OL. Your continued use of LO_OL following the posting of the updated Privacy Policy will mean that you accept those changes. You are advised to review this Privacy Policy periodically for changes.
 
-12. HOW TO CONTACT US
+### 12. HOW TO CONTACT US
 
 Should you have any questions or concerns about this Privacy Policy, please email: playloool.game@gmail.com.
 
